@@ -1,4 +1,4 @@
-# Veterinar-Clinic
+# Veterinary-Clinic
 Program Author:
 	Hugh Hang
 	
