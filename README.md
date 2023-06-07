@@ -18,7 +18,6 @@ Files:
 		Animal.cc
 		Appt.cc
 		Schedule.cc
-	
 	Header files:
 		defs.h
 		ComparableBehaviour.h
@@ -30,7 +29,6 @@ Files:
 		Animal.h
 		Appt.h
 		Schedule.h
-
 	Other files:
 		Makefile
 		
