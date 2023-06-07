@@ -9,6 +9,7 @@ Purpose:
 	User can use menu to find the veterinary clinic's details.
 	
 Files: 
+
 	Source files:
 		main.cc
 		Control.cc
@@ -18,6 +19,7 @@ Files:
 		Animal.cc
 		Appt.cc
 		Schedule.cc
+		
 	Header files:
 		defs.h
 		ComparableBehaviour.h
@@ -29,6 +31,7 @@ Files:
 		Animal.h
 		Appt.h
 		Schedule.h
+		
 	Other files:
 		Makefile
 		
